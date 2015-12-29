@@ -4,7 +4,7 @@
 //
 //  Created by Ricardo Rodriguez on 12/29/15.
 //  Copyright © 2015 Ricardo Rodriguez P. All rights reserved.
-//
+//heres comment for GIT control
 
 import UIKit
 
